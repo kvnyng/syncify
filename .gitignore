@@ -1,0 +1,9 @@
+.venv
+!.gitinclude
+playlists/*
+!playlists/.gitinclude
+config.json
+!config.json.example
+*.pyc
+__pycache__/
+.env
