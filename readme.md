@@ -4,7 +4,7 @@ Syncify is a command-line tool that syncs your Spotify playlists to your local m
 
 Each playlist is saved in its own folder with a JSON manifest for tracking changes. Syncify will only download missing tracks and automatically delete tracks that are removed from your Spotify playlists.
 
-GitHub: https://github.com/kvnyng/syncing
+GitHub: https://github.com/kvnyng/syncify
 
 ## Features
 
